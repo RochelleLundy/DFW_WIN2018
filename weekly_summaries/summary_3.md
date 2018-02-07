@@ -1,6 +1,7 @@
 Week 3 - 1/22/2018
 
-- Remix class session - delivery of presentation and student questions
-- preparation of presentation for Gender & Fandom class; including research and discussion of copyright issues around characters
-- preparation for French class - review of Google Books case and preparation of abridged opinion for class reading; research regarding copyright issues related to digitization
-- workshop prep - discussion of how to incorporate active learning for online participants - scheduling of meeting with Reed
+This week began with my first classroom instruction session with the Scholarly Communication & Publishing unit. My supervisor and I co-taught a portion of an undergraduate honors class entitled 'Remix as Resistance', which examines the role of audio and visual remixes in our culture and encourages students to create their own remix projects. We were invited to spend 40 minutes with the class in order to introduce them to copyright law in general and the concept of fair use in particular, as it is highly relevant to anyone reusing works created by others. The class was eager to participate in our active learning exercise on fair use, in which they are guided through the legal analysis of a real court case, and a number of students approached us after the class ended in order to continue the discussion. I very much enjoyed this first opportunity to teach students about intellectual property law and appreciated getting their take on how these issues relate to both their lives and their work in the class.
+
+I also devoted much of this week to the preparation of materials for two additional classroom sessions planned for next week, researching issues related to ownership of characters for an upcoming class on fandom and creating an abridged version of the Second Circuit's opinion in *Author's Guild v. Google* for a class pursuing digitization projects.
+
+We also continued discussing ideas for our longer-term library staff workshop projects this week, including thinking about how our sessions can include virtual attendees in active learning exercises. We invited input from another librarian who focuses on serving online students and scheduled a future meeting to discuss options.
