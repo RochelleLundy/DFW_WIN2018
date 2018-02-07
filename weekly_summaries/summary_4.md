@@ -6,4 +6,6 @@ By contrast, our second instruction session this week was delivered to a small g
 
 Both instruction sessions also sparked ideas for our longer-term workshop planning, as they involved fair use examples focused on 'transformative' uses beyond the parody, satire, and commentary examples we had used in last week's classroom session. As fair use issues involving reference works and digitization will likely be of significant interest to library staff, we planned to incorporate them into our future fair use workshop.
 
+I was also able to assist in reviewing a scholarly publishing contract this week and to participate in communicating the results of this review to the authors, who have planned to raise relevant concerns with their publisher. This experience was particularly illuminating as to the challenges researchers face in coordinating the often stringent demands of publishers with their own institution's open access and repository requirement.
+
 Finally, I assisted in responding to an inquiry from the music library regarding potential digitization of donated sound recordings. As the recordings were on reel-to-reel tapes, I needed to assess whether this would be considered an 'obsolete format' under section 108 of the Copyright Act, as well as think about concerns regarding previous publication of the same recordings by another library.
