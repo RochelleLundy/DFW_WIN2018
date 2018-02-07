@@ -1,4 +1,7 @@
 ### Week 1 - 1/8/2018
 
-- deed of gift; gift/donation contract review & research
-- discussion and planning of longer term projects - scheduling of fair use workshop, initial discussion of structure & example cases
+This week, I was introduced to the five librarians that make up the Scholarly Communication and Publishing unit and had an opportunity to speak with each of them about the work that they do. Each of them had interesting ideas for projects on which I could be of use, and it was a pleasure to learn how I might be able to contribute to their work.
+
+I also engaged in reviewing issues related to the receipt of gifts and donations by academic libraries. I reviewed a number of different forms used for accepting gifts in various parts of my host institution and researched the terms under which donations are accepted at other institutions. Even with the best of intentions, gifts and donations can raise problematic copyright issues for libraries, and understanding the rights available in them can help a library to make the best use of materials provided to it. Learning about how this process works, including librarians' experiences addressing donor concerns in signing contracts in order to gift the library with (often valuable) materials, provided useful insight as to how copyright affects the daily workings of an academic library.
+
+My supervisor and I also devoted part of this week to both establishing my learning objectives for the quarter and to begin planning towards meeting those objectives. In particular, we scheduled and arranged space for our fair use workshop for library staff and engaged in a preliminary discussion of how the workshop will be structured.
