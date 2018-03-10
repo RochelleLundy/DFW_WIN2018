@@ -1,1 +1,1 @@
-This folder will contain material related to other projects undertaken during fieldwork, including research on text-mining services,  responses to copyright and related inquiries from the library and university community, and classroom instruction sessions.
+This folder will contain material related to other projects undertaken during fieldwork, including research on text and data mining services.
