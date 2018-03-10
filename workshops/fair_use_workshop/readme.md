@@ -1,1 +1,1 @@
-This folder will contain material related to creation of a fair use workshop for library staff.
+This folder contains slides, handouts, and notes for a fair use workshop for library staff.
